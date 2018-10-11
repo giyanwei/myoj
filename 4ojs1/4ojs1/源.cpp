@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 
 using namespace std;
 
@@ -20,7 +21,7 @@ int main()
 	while (cin >> N)
 	{
 		cout << fb(N) << endl;
-		
+
 	}
 	return 0;
 }
