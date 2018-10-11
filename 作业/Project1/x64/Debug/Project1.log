@@ -1,0 +1,3 @@
+﻿最大公因数2.obj : error LNK2005: main 已经在 最大公因数1、.obj 中定义
+辗转相除法.obj : error LNK2005: main 已经在 最大公因数1、.obj 中定义
+C:\Users\18221\source\repos\作业\x64\Debug\作业.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
